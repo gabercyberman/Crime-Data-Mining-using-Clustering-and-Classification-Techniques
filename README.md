@@ -40,6 +40,6 @@ This project analyzes and predicts crime incidents using real-world crime data. 
 
 ---
 
-**Developed by:** [mohamed gaber 2305056 youssef mohmed 2305038]
+**Developed by:** [mohamed gaber]
 
 For any issues, please contact the developer.
