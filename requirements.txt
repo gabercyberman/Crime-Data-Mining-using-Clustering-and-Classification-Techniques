@@ -1,0 +1,5 @@
+pandas
+matplotlib
+scikit-learn
+numpy
+# Tkinter is included with Python standard library, no need to install explicitly
